@@ -5,6 +5,7 @@
 
 ![Base1](https://github.com/user-attachments/assets/92953f37-b6d7-444e-bebb-3ea637861d3e)
 
+Создание таблиц Table3 и Table4
 
 ![Base2](https://github.com/user-attachments/assets/801dcfa1-afe8-4ace-873c-8b16c62b8a93)
 
