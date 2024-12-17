@@ -15,3 +15,7 @@
 Выводим записи с age > 30, создание записи kira и удаление записей с name kira
 
 ![Base5](https://github.com/user-attachments/assets/46c4fba9-f86c-49e1-89b9-92499fc145e2)
+
+Выводим число записей таблицы Table1
+
+![Base6](https://github.com/user-attachments/assets/edbabaf3-96b0-4ee5-a514-1a37f409b12c)
